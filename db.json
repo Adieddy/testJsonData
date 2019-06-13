@@ -1,19 +1,19 @@
 {
   "members": [
     {
-      "memberId": 1001,
+      "id": 1001,
       "balance": 5000
     },
 	{
-      "memberId": 1002,
+      "id": 1002,
       "balance": 300
     },
 	{
-      "memberId": 1003,
+      "id": 1003,
       "balance": 6527
     },
 	{
-      "memberId": 1004,
+      "id": 1004,
       "balance": 10000
     }
   ]
