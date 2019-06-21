@@ -2,19 +2,31 @@
   "members": [
     {
       "id": 1001,
-      "balance": 5000
+      "balance": 5000,
+	    "rate": 1,
+	    "maxRedeemPts": 5000,
+	    "minRedeemPts": 500
     },
 	{
       "id": 1002,
-      "balance": 300
+      "balance": 300,
+	"rate": 1,
+		"maxRedeemPts": 5000,
+	    "minRedeemPts": 500
     },
 	{
       "id": 1003,
-      "balance": 6527
+      "balance": 6527,
+	"rate": 1,
+		"maxRedeemPts": 5000,
+	    "minRedeemPts": 500
     },
 	{
       "id": 1004,
-      "balance": 10000
+      "balance": 10000,
+	"rate": 1,
+		"maxRedeemPts": 5000,
+	    "minRedeemPts": 500
     }
   ]
 }
